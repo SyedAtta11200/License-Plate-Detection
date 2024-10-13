@@ -31,6 +31,7 @@ To set up the project, you will need the following software installed on your ma
   - cvzone
   - ultralytics
   - opencv-python
+  - pytesseract
   - pandas
   - Pillow
   - matplotlib
@@ -59,7 +60,7 @@ Using conda:
 If you prefer conda, create a new environment with the following command:
 
 ```bash
-conda create --name yolov8-env python=3.8
+conda create --name yolov8-env python=3.12
 conda activate yolov8-env
 ```
 ### Step 3: Install Required Libraries
