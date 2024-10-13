@@ -33,6 +33,7 @@ pillow==10.4.0
 psutil==6.0.0
 py-cpuinfo==9.0.0
 pyparsing==3.1.4
+pytesseract==0.3.13
 python-dateutil==2.9.0.post0
 pytz==2024.2
 PyYAML==6.0.2
